@@ -2,4 +2,7 @@
 
 This is one of the funniest game.
 
-#rule
+The player 
+
+# rule
+
